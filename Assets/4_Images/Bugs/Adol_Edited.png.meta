@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 91c2ac2b33a724349b2a3759286d5f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6970370259269423842
+    second: Adol_Edited_0
+  - first:
+      213: 5600530087659413716
+    second: Adol_Edited_1
+  - first:
+      213: 167333281650608862
+    second: Adol_Edited_2
+  - first:
+      213: -3669600195922272913
+    second: Adol_Edited_3
+  - first:
+      213: -2602561389363368007
+    second: Adol_Edited_4
+  - first:
+      213: -6174339451655870727
+    second: Adol_Edited_5
+  - first:
+      213: 696892313347362229
+    second: Adol_Edited_6
+  - first:
+      213: -8961852138627262208
+    second: Adol_Edited_7
+  - first:
+      213: 7382574635749632950
+    second: Adol_Edited_8
+  - first:
+      213: 970250185494225865
+    second: Adol_Edited_9
+  - first:
+      213: 1134424672951223703
+    second: Adol_Edited_10
+  - first:
+      213: 5170953393808691191
+    second: Adol_Edited_11
+  - first:
+      213: 8761839495666876905
+    second: Adol_Edited_12
+  - first:
+      213: 4545745275440962442
+    second: Adol_Edited_13
+  - first:
+      213: 2481230861117891161
+    second: Adol_Edited_14
+  - first:
+      213: 8931909545524876046
+    second: Adol_Edited_15
+  - first:
+      213: -25534069353654208
+    second: Adol_Edited_16
+  - first:
+      213: 6985990833340074829
+    second: Adol_Edited_17
+  - first:
+      213: 7295054598864783312
+    second: Adol_Edited_18
+  - first:
+      213: 4756584870537907457
+    second: Adol_Edited_19
+  - first:
+      213: 7284621239340687340
+    second: Adol_Edited_20
+  - first:
+      213: 8246599291820936709
+    second: Adol_Edited_21
+  - first:
+      213: 1722679802701653337
+    second: Adol_Edited_22
+  - first:
+      213: -2443906109010358914
+    second: Adol_Edited_23
+  - first:
+      213: -5589968525692854865
+    second: Adol_Edited_24
+  - first:
+      213: 4820077294752894898
+    second: Adol_Edited_25
+  - first:
+      213: 5291854184409145019
+    second: Adol_Edited_26
+  - first:
+      213: 119746505394498931
+    second: Adol_Edited_27
+  - first:
+      213: -8795430496908192360
+    second: Adol_Edited_28
+  - first:
+      213: 2607339266010140105
+    second: Adol_Edited_29
+  - first:
+      213: 6402391397515736339
+    second: Adol_Edited_30
+  - first:
+      213: -3912288638869773129
+    second: Adol_Edited_31
+  - first:
+      213: -400788088196674684
+    second: Adol_Edited_32
+  - first:
+      213: 3221537324305003452
+    second: Adol_Edited_33
+  - first:
+      213: -9135602323329117973
+    second: Adol_Edited_34
+  - first:
+      213: 7568703328655896337
+    second: Adol_Edited_35
+  - first:
+      213: 5292171249479909049
+    second: Adol_Edited_36
+  - first:
+      213: 4094926635708682200
+    second: Adol_Edited_37
+  - first:
+      213: -1360540900991446660
+    second: Adol_Edited_38
+  - first:
+      213: 5084625053551462275
+    second: Adol_Edited_39
+  - first:
+      213: 1401044275675647926
+    second: Adol_Edited_40
+  - first:
+      213: -6012352610159130423
+    second: Adol_Edited_41
+  - first:
+      213: -8645321189736377118
+    second: Adol_Edited_42
+  - first:
+      213: -3160716911309961652
+    second: Adol_Edited_43
+  - first:
+      213: -6844543757878019574
+    second: Adol_Edited_44
+  - first:
+      213: -6283028451734836004
+    second: Adol_Edited_45
+  - first:
+      213: -2368938238043614475
+    second: Adol_Edited_46
+  - first:
+      213: 8947115814816339810
+    second: Adol_Edited_47
+  - first:
+      213: -2350063469954942756
+    second: Adol_Edited_48
+  - first:
+      213: 4657805616790843815
+    second: Adol_Edited_49
+  - first:
+      213: -4887495544214263525
+    second: Adol_Edited_50
+  - first:
+      213: -352174716533178757
+    second: Adol_Edited_51
+  - first:
+      213: -5610527069242986350
+    second: Adol_Edited_52
+  - first:
+      213: -3677785543856159907
+    second: Adol_Edited_53
+  - first:
+      213: -5145138191129382084
+    second: Adol_Edited_54
+  - first:
+      213: -4812908128051300763
+    second: Adol_Edited_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adol_Edited_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 798
+        width: 26
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e293b8f1dabbb060800000000000000
+      internalID: 6970370259269423842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 798
+        width: 26
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a3dc117419bd40800000000000000
+      internalID: 5600530087659413716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 799
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda82ebabbc725200800000000000000
+      internalID: 167333281650608862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 745
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d595e6016f21dc0800000000000000
+      internalID: -3669600195922272913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 744
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf69d09438d1ebd0800000000000000
+      internalID: -2602561389363368007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 746
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f62f555bf6505aa0800000000000000
+      internalID: -6174339451655870727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd05cfdddbdba900800000000000000
+      internalID: 696892313347362229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 690
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091c8b36fa11a380800000000000000
+      internalID: -8961852138627262208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 690
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6aa3448c247660800000000000000
+      internalID: 7382574635749632950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 639
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e3a13765077d00800000000000000
+      internalID: 970250185494225865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 640
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79542b7ca394ebf00800000000000000
+      internalID: 1134424672951223703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 638
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff411cf6bae2c740800000000000000
+      internalID: 5170953393808691191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 586
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1463e599e489970800000000000000
+      internalID: 8761839495666876905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 586
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b911e5e3bb51f30800000000000000
+      internalID: 4545745275440962442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 586
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522ba2725a1f6220800000000000000
+      internalID: 2481230861117891161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 533
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035eea886484fb70800000000000000
+      internalID: 8931909545524876046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 532
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048518236e845aff0800000000000000
+      internalID: -25534069353654208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 535
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bce5946a933f060800000000000000
+      internalID: 6985990833340074829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74a6eb18d3d3560800000000000000
+      internalID: 7295054598864783312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc8600db8c20240800000000000000
+      internalID: 4756584870537907457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 479
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefda2eeb6c281560800000000000000
+      internalID: 7284621239340687340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 427
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e89f11d5ec17270800000000000000
+      internalID: 8246599291820936709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 429
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a5c5472038e710800000000000000
+      internalID: 1722679802701653337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 426
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc70c9750851ed0800000000000000
+      internalID: -2443906109010358914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 375
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad96782e317c62b0800000000000000
+      internalID: -5589968525692854865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 377
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0caff2ca54e240800000000000000
+      internalID: 4820077294752894898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 375
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1fd0e751707940800000000000000
+      internalID: 5291854184409145019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 375
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d222defcc69a100800000000000000
+      internalID: 119746505394498931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 319
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8955621309a50f580800000000000000
+      internalID: -8795430496908192360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd46778f312f2420800000000000000
+      internalID: 2607339266010140105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 319
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31531f10e0dd9d850800000000000000
+      internalID: 6402391397515736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 321
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ee5d0632c4b9c0800000000000000
+      internalID: -3912288638869773129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b44d47b5d107af0800000000000000
+      internalID: -400788088196674684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bcd5c02335bc20800000000000000
+      internalID: 3221537324305003452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 268
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be01cb4e612d73180800000000000000
+      internalID: -9135602323329117973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 267
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe9d2a39f690960800000000000000
+      internalID: 7568703328655896337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 213
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef8c756b1917940800000000000000
+      internalID: 5292171249479909049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 215
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df83be441a14d830800000000000000
+      internalID: 4094926635708682200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 213
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d30e42436e1de0800000000000000
+      internalID: -1360540900991446660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 213
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878cf4fb87309640800000000000000
+      internalID: 5084625053551462275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfcd3e7852817310800000000000000
+      internalID: 1401044275675647926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88217e725df8ca0800000000000000
+      internalID: -6012352610159130423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 163
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e41b9cce26a50880800000000000000
+      internalID: -8645321189736377118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 165
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ccc127b0e224d0800000000000000
+      internalID: -3160716911309961652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a301657bb4301a0800000000000000
+      internalID: -6844543757878019574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 108
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2cac79e23ec8a0800000000000000
+      internalID: -6283028451734836004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f212924937df1fd0800000000000000
+      internalID: -2368938238043614475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26758620e6a8a2c70800000000000000
+      internalID: 8947115814816339810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b6b9a9b5e26fd0800000000000000
+      internalID: -2350063469954942756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 55
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a133a5c789d3a040800000000000000
+      internalID: 4657805616790843815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19edc592b02c2cb0800000000000000
+      internalID: -4887495544214263525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 55
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7a2216f2dc1bf0800000000000000
+      internalID: -352174716533178757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290fe0b3b576322b0800000000000000
+      internalID: -5610527069242986350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53036a9881e5fcc0800000000000000
+      internalID: -3677785543856159907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ff65431cc898b0800000000000000
+      internalID: -5145138191129382084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adol_Edited_55
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56679e2be8d153db0800000000000000
+      internalID: -4812908128051300763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
